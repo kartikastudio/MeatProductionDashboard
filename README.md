@@ -1,4 +1,4 @@
 # Meat Production Dashboard (Ms. Excel Project)
-A personal learning project focused on analyzing meat production data and visualizing key production metrics and trends using Microsoft Excel.
+I developed this Meat Production Dashboard as a **personal learning project** to strengthen my skills in using Microsoft Excel for data analysis and visualization. The dashboard provides an overview of meat production-related insights, including production volume, production trends, and production performance across different categories. Built using Pivot Tables, Pivot Charts, and Slicers, it transforms raw production data into interactive visualizations that support data exploration and business decision-making. This project reflects my hands-on learning journey in building clear, organized, and user-friendly dashboards while enhancing my analytical and problem-solving skills.
 ## Dashboard Preview
 <img width="6250" height="4419" alt="Image" src="https://github.com/user-attachments/assets/aac04ea7-d32a-4c94-842e-83fbf11ee7ea" />
